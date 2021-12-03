@@ -1,0 +1,14 @@
+.all-menu li{
+    cursor: pointer;
+    list-style: none;
+    
+}
+.d-title{
+    color:#D34A3F;
+    font-size: 30px;
+    font-weight: 900;
+}
+.dash_menu{
+    background-color: #D4DDDD;
+    
+}
