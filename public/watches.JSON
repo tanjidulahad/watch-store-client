@@ -1,0 +1,78 @@
+[
+    {
+        "key": "1",
+        "name": "Rado",
+        "img":"https://i.ibb.co/hgPnmD8/rad-21-001-tps-jun-lead-1621367119.png",
+        "description":"Rado is a “high range” brand of the Swiss watch conglomerate Swatch Group alongside Longines and Union Glashütte. It was founded in 1917 as Schlup & Co. in Lengnau, Switzerland, and began using the Rado brand in the 1950s. It was part of Sagiter and the General Watch Co./ASUAG.",
+        "price": 10500
+        
+    },
+    {
+        "key": "2",       
+        "name": "Citizen",
+        "img":"https://i.ibb.co/60S0JLC/Series-8-img-04.png",
+        "description":"Citizen Watch Co., Ltd.  is an electronics company primarily known for its watches and is the core company of a Japanese global corporate group based in Nishitokyo, Tokyo, Japan. In addition to Citizen brand watches, it is the parent of American watch company Bulova.",
+        "price": 2000
+        
+    },
+    {
+        "key": "3",
+        "name": "Michael Kors",
+        "img":"https://i.ibb.co/VqM033t/best-men-watches-michael-kors-runway-review-luxe-digital-2x.png",
+        "description":"Designed by big-name fashion brand Michael Kors, and one of the best looking watches on our list, this slimline dress watch advances the timepiece style agenda with its eye-catching design that’s here to set trends. Available in a range of colours it features a round sunray.  ",
+        "price": 3200       
+    },
+    {
+        "key": "4",
+        "name": "Rolex",
+        "img":"https://i.ibb.co/tCSmQRV/best-men-watches-rolex-datejust-review-luxe-digital-2x.png",
+        "description":"Rolex SA is a British-founded Swiss watch designer & manufacturer based in Geneva, Switzerland. Founded in 1905 as Wilsdorf and Davis by Hans Wilsdorf and Alfred Davis in London, England, the company registered the word 'Rolex' as the brand name of its watches in 1908, and it became Rolex Watch Co. Ltd. in 1915.",
+        "price": 12000
+        
+    },
+    {
+        "key": "5",
+        "name": "Vincero",
+        "img":"https://i.ibb.co/JKQFYbW/best-men-watch-vincero-vessel-review-luxe-digital-2x.png",
+        "description":"Vincero doesn’t make legacy luxury watches. These aren’t timepieces designed to give a Rolex a run for its money. Instead, the brand is re-imagining the whole concept of affordable timekeepers. Rather than mass-producing watches from second-rate materials, they create small batches and check each timepiece by hand .",
+        "price": 3300       
+    },
+    {
+        "key": "6",
+        "name": "Invicta",
+        "img":"https://i.ibb.co/ZfSFBWn/best-men-watches-invicta-pro-diver-review-luxe-digital-2x.png",
+        "description":"Invicta began as a Swiss watch company in 1837. It was founded by Raphael Picard in La Chaux-de-Fonds, Switzerland. In the early 80’s Invicta went bankrupt and it was sold in 1983 to Ondix S.A. which continues producing Invicta watches in Bielle.which continues producing Invicta watches in Bielle.",
+        "price": 2200      
+    },
+    {
+        "key": "7",
+        "name": "Panerai",
+        "img":"https://i.ibb.co/xDwpQhV/best-men-watch-panerai-submersible-review-luxe-digital-2x.png",
+        "description":"Giovanni Panerai opens his first shop in 1860 at “Ponte alle Grazie” in Florence, serving not only as a watch shop and workshop, but also as the city's first watchmaking school: the history of Panerai begins here.serving not only as a watch shop and workshop,but also as the city's first watchmaking school.",
+        "price": 2300       
+    },
+    {
+        "key": "8",
+        "name": "Spinnaker",
+        "img":"https://i.ibb.co/W57ssMg/best-men-watch-spinnaker-croft-review-luxe-digital-2x.png",
+        "description":"Man’s ability to traverse, discover and live among the waves of the open sea is a legacy of bravery, adventure, skill and ingenuity. Our timepieces, through a combination of material, design and craftsmanship, pay tribute to both a technical command and for a life beneath, beyond and beside the sea.",
+        "price": 1400       
+    },
+    {
+        "key": "9",
+        "name": "Casio",
+        "img":"https://i.ibb.co/rfV1Q9S/best-men-watch-casio-MDV106-1-AV-review-luxe-digital-2x.png",
+        "description":"Casio Computer Co., Ltd.  is a Japanese multinational electronics manufacturing corporation headquartered in Shibuya, Tokyo, Japan.  It was founded in 1946 It was an early digital camera innovator, and during the 1980s and 1990s, the company developed numerous affordable   digital watches.",
+        "price": 2200       
+    },
+    {
+        "key": "10",
+        "name": "Tudor",
+        "img":"https://i.ibb.co/chzHXCr/best-men-watch-tudor-pelagos-review-luxe-digital-2x.png",
+        "description":"TUDOR SA is a Swiss manufacturer of luxury wristwatches based in Geneva, Switzerland. Registered in 1926 by Hans Wilsdorf, the founder of Rolex, the brand remains a sister company to Rolex, both companies being owned by the Hans Wilsdorf Foundation. Over time, Tudor became well-known for its tool watches, producing watches for professional divers and the military.",
+        "price": 2400       
+    }
+    
+    
+    
+]

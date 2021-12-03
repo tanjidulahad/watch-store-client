@@ -1,0 +1,22 @@
+.form {
+    background-color: #D4DDDD;
+    border-radius: 10px;
+    
+     
+}
+.form ::-webkit-input-placeholder{
+    color:rgb(134, 125, 125)
+}
+.form input, textarea{    
+    border-color: black;
+    color:black
+}
+.form label{
+    text-align: left;
+    display: block
+}
+.section_title{
+    color:#D34A3F;
+    font-size: 30px;
+    font-weight: 900;
+}

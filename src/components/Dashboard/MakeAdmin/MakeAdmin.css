@@ -1,0 +1,16 @@
+.admin_form{
+    background-color: #D4DDDD;
+    border-radius: 10px;
+
+}
+.admin_form input{
+ border-color: black;
+}
+.sub-btn{
+    color: black;
+}
+.section_title{
+    color:#D34A3F;
+    font-size: 30px;
+    font-weight: 900;
+}
